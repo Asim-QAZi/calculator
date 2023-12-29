@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">firstapplication</string>
+    <string name="plus">+</string>
+    <string name="sub">-</string>
+    <string name="mul">x</string>
+    <string name="div">/</string>
+
+</resources>
